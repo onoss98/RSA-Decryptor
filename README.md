@@ -1,0 +1,1 @@
+This project was created as an individual project for a class assignment. The program will decode an RSA Decrypted text, given the Decrypted messaged, Public Key and number of letters.
